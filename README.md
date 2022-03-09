@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1 class="border-bottom">Hi, I'm Faris</h1>
+<h1>Hi, I'm Faris 👋🏾 👩🏾‍💻</h1>
 
 </body>
 </html>
