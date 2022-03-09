@@ -5,7 +5,11 @@
 </head>
 <body>
 
-<h1>Hi, I'm Faris 👋🏾 👩🏾‍💻</h1>
-
+<div class="container">
+<h2>Hi, I'm Faris 👋🏾 </h2>
+	<h3> I'M FULLSTACK WEB DEVELOPER<h3>
+	<img style="width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">
+                <img>
+</div>
 </body>
 </html>
